@@ -5,7 +5,6 @@ Where to find me?
 
 ## Skills 🛠
 ![ruby](https://img.shields.io/badge/-Ruby-red?style=for-the-badge&logo=ruby&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## Want to learn
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
