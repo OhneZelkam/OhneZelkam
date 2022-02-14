@@ -1,7 +1,8 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
 
-Who Am I?
+# Who Am I?
 My name is Peter and I am a student at a technical school in Poland
+
 Where to find me?
 # Discord: ZelJam#2134
 
